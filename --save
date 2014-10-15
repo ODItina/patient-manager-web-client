@@ -1,0 +1,16 @@
+
+> kerberos@0.0.3 install C:\Projects\patient-manager-web-client\node_modules\patient.info.domain\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+
+C:\Projects\patient-manager-web-client\node_modules\patient.info.domain\node_modules\mongoose\node_modules\mongodb\node_modules\kerberos>node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild 
+
+> bson@0.2.12 install C:\Projects\patient-manager-web-client\node_modules\patient.info.domain\node_modules\mongoose\node_modules\mongodb\node_modules\bson
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+
+
+C:\Projects\patient-manager-web-client\node_modules\patient.info.domain\node_modules\mongoose\node_modules\mongodb\node_modules\bson>node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild 
+patient.info.domain@0.0.0 node_modules\patient.info.domain
+├── lodash@2.4.1
+├── moment@2.8.3
+└── mongoose@3.8.17 (regexp-clone@0.0.1, sliced@0.0.5, muri@0.3.1, hooks@0.2.1, mpath@0.1.1, ms@0.1.0, mpromise@0.4.3, mquery@0.8.0, mongodb@1.4.9)

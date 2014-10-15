@@ -1,0 +1,27 @@
+{
+  "name": "patient-manager-web-client",
+  "version": "0.0.0",
+  "authors": [
+    "ODItina <primeunit2004@yahoo.com>"
+  ],
+  "description": "Client side dependencies resoluter",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "*",
+    "angular-bootstrap": "*",
+    "angular-cookies": "*",
+    "angular-resource": "*",
+    "angular-ui-router": "*",
+    "angular-ui-utils": "*",
+    "bootstrap": "*"
+  }
+}
